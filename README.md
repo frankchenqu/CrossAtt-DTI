@@ -29,7 +29,7 @@ Key Features
 This code was originally created by Lu Wang and Yuxue Pan, who were master students at Zhejiang University of Science and Technology.
 
 Wang was under joint supervision of Dr. Qu Chen and Prof. Yifeng Zhou, and Pan was under joint supervision of Dr. Qu Chen and Prof. Juan Huang.
-This code serves as the Supporting Information for the manuscript entitled "AI-Assisted Molecular Docking and Molecular Dynamics Simulations for Predicting Off-Target Effects of AKT1 ATP-Competitive Inhibitors" and can be downloaded for free.
+This code serves as the Supporting Information for the manuscript entitled "AI-Assisted Molecular Docking and Molecular Dynamics Simulations for Predicting Off-Target Effects of AKT1 ATP-Competitive Inhibitors (submitted)" and can be downloaded for free.
 
 edited on January 5th, 2026
 
